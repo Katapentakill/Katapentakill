@@ -76,7 +76,7 @@ currently_learning:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Katapentakill&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Katapentakill&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
 ## 🎯 Featured Projects
