@@ -99,12 +99,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://Katapentakill.github.io/Katapentakill/trophies.svg" alt="GitHub Trophies"/>
-</div>
-
 
 ## 📈 Contribution Metrics
 
@@ -178,7 +172,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=50&lines=💡+%22Data+is+the+new+oil+—+refined+by+algorithms%2C+deployed+as+innovation.%22;🚀+%22In+AI+we+trust%2C+in+data+we+verify.%22;⚡+%22Code+is+poetry%2C+data+is+the+story+it+tells.%22" alt="Quote typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=70&lines=Data+is+the+new+oil+-+refined+by+algorithms,+deployed+as+innovation.;In+AI+we+trust,+in+data+we+verify.;Code+is+poetry,+data+is+the+story+it+tells." alt="Quote typing"/>
 </div>
 
 <!-- Snake Animation -->
