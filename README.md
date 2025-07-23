@@ -35,9 +35,9 @@
 ```
 
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Katapentakill&color=7C3AED&style=for-the-badge&label=Profile+Views"/>
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Katapentakill?color=7C3AED&style=for-the-badge&logo=github&logoColor=white&label=Followers"/>
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Katapentakill?color=7C3AED&style=for-the-badge&logo=star&logoColor=white&label=Stars"/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Katapentakill&color=7C3AED&style=flat-square&label=Profile+Views"/>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Katapentakill?color=7C3AED&style=flat-square&logo=github&logoColor=white&label=Followers"/>
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Katapentakill?color=7C3AED&style=flat-square&logo=star&logoColor=white&label=Stars"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -48,38 +48,51 @@
 
 ### 🔥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,typescript,r,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/SQL-21262D?style=flat-square&logo=postgresql&logoColor=336791&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/R-21262D?style=flat-square&logo=r&logoColor=276DC3&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnu-bash&logoColor=4EAA25&logoWidth=40"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-21262D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/🤗_Transformers-21262D?style=for-the-badge&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/LangChain-21262D?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
-  <img src="https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge&logo=openai&logoColor=412991"/>
+  <img src="https://img.shields.io/badge/PyTorch-21262D?style=flat-square&logo=pytorch&logoColor=EE4C2C&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-21262D?style=flat-square&logo=tensorflow&logoColor=FF6F00&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/OpenCV-21262D?style=flat-square&logo=opencv&logoColor=5C3EE8&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-21262D?style=flat-square&logo=scikit-learn&logoColor=F7931E&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/🤗_Transformers-21262D?style=flat-square&logoColor=FFD21E&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/LangChain-21262D?style=flat-square&logo=chainlink&logoColor=375BD2&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/OpenAI-21262D?style=flat-square&logo=openai&logoColor=412991&logoWidth=40"/>
 </p>
 
 ### 📊 Data & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Pandas-21262D?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/NumPy-21262D?style=for-the-badge&logo=numpy&logoColor=013243"/>
-  <img src="https://img.shields.io/badge/Plotly-21262D?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
-  <img src="https://img.shields.io/badge/Jupyter-21262D?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-21262D?style=for-the-badge&logo=apache-spark&logoColor=E25A1C"/>
+  <img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square&logo=pandas&logoColor=150458&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square&logo=numpy&logoColor=013243&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Plotly-21262D?style=flat-square&logo=plotly&logoColor=3F4F75&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Jupyter-21262D?style=flat-square&logo=jupyter&logoColor=F37626&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-21262D?style=flat-square&logo=apache-spark&logoColor=E25A1C&logoWidth=40"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure&theme=dark" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-21262D?style=for-the-badge&logo=apache-airflow&logoColor=017CEE"/>
-  <img src="https://img.shields.io/badge/MLflow-21262D?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
+  <img src="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Kubernetes-21262D?style=flat-square&logo=kubernetes&logoColor=326CE5&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/AWS-21262D?style=flat-square&logo=amazon-aws&logoColor=FF9900&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/GCP-21262D?style=flat-square&logo=google-cloud&logoColor=4285F4&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Azure-21262D?style=flat-square&logo=microsoft-azure&logoColor=0078D4&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-21262D?style=flat-square&logo=apache-airflow&logoColor=017CEE&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/MLflow-21262D?style=flat-square&logo=mlflow&logoColor=0194E2&logoWidth=40"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/Snowflake-21262D?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=336791&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=4479A1&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Redis-21262D?style=flat-square&logo=redis&logoColor=DC382D&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/Snowflake-21262D?style=flat-square&logo=snowflake&logoColor=29B5E8&logoWidth=40"/>
 </p>
 
 </div>
@@ -152,16 +165,16 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0077B5&logoWidth=40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=0077B5&logoWidth=40"/>
   </a>
   <a href="https://kaggle.com/yourprofile">
-    <img src="https://img.shields.io/badge/Kaggle-21262D?style=for-the-badge&logo=kaggle&logoColor=20BEFF&logoWidth=40"/>
+    <img src="https://img.shields.io/badge/Kaggle-21262D?style=flat-square&logo=kaggle&logoColor=20BEFF&logoWidth=40"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=40"/>
+    <img src="https://img.shields.io/badge/Gmail-21262D?style=flat-square&logo=gmail&logoColor=EA4335&logoWidth=40"/>
   </a>
   <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-21262D?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=40"/>
+    <img src="https://img.shields.io/badge/Twitter-21262D?style=flat-square&logo=twitter&logoColor=1DA1F2&logoWidth=40"/>
   </a>
 </div>
 
@@ -183,7 +196,6 @@
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=120&section=footer&animation=fadeIn"/>
 
-<!-- Visitor counter con diseño especial -->
 <div align="center">
-  <img src="https://count.getloli.com/get/@Katapentakill?theme=rule34" alt="Visitor Count"/>
+  <img src="https://count.getloli.com/get/@Katapentakill?theme=ai-1" alt="Visitor Count (AI Futuristic)"/>
 </div>
