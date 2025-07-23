@@ -1,6 +1,5 @@
-<!-- Typing SVG con estilo GitHub -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F0F6FC&background=0D111700&center=true&vCenter=true&width=900&height=100&lines=🚀+Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;⚡+Transforming+Raw+Data+into+Intelligent+Solutions;🔬+From+Research+to+Production+with+MLOps+Excellence" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering;Transforming%20Raw%20Data%20into%20Intelligent%20Solutions;From%20Research%20to%20Production%20with%20MLOps%20Excellence" alt="Typing Animation" />
 </div>
 
 <!-- Divider con wave animado -->
