@@ -1,114 +1,195 @@
-<!-- Typing SVG con estilo profesional -->
+<!-- Typing SVG con estilo GitHub -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Transforming+Data+into+Insightful+Solutions;From+Concept+to+Production+with+MLOps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F0F6FC&background=0D111700&center=true&vCenter=true&width=900&height=100&lines=🚀+Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;⚡+Transforming+Raw+Data+into+Intelligent+Solutions;🔬+From+Research+to+Production+with+MLOps+Excellence" alt="Typing Animation" />
 </div>
 
-<!-- Divider animado -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Divider con wave animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=120&section=header&animation=fadeIn"/>
+
+<!-- Header con avatar animado -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
 
 ## 🌟 Professional Profile
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Senior+Data+Analyst+%26+AI+Specialist;Based+in+Santiago%2C+Chile" alt="Profile typing"/>
+</div>
+
 ```yaml
-name: Katapentakill
-title: "Senior Data Analyst & AI Specialist"
-location: Santiago, Chile
-education:
-  - "Civil Engineering in Computing & Information Technology"
-core_expertise:
-  - "Predictive Analytics"
-  - "Natural Language Processing"
-  - "Computer Vision Systems"
-  - "Data Pipeline Architecture"
-technical_philosophy: "Great AI systems start with clean data, thoughtful design, and production-grade implementation"
+🎯 name: Katapentakill
+📍 location: Santiago, Chile
+🎓 education: "Civil Engineering in Computing & Information Technology"
+💼 role: "Senior Data Analyst & AI Specialist"
+
+🔬 core_expertise:
+  - "Predictive Analytics & Statistical Modeling"
+  - "Natural Language Processing & LLMs"
+  - "Computer Vision & Deep Learning"
+  - "MLOps & Data Pipeline Architecture"
+  
+💭 philosophy: |
+  "Great AI systems are born from the marriage of 
+   clean data, thoughtful architecture, and 
+   production-grade implementation"
 ```
 
 <div align="center">
-  <img alt="Profile Views" src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-1.2k+-0D1117?style=for-the-badge&logo=eye&logoColor=58A6FF&labelColor=0D1117"/>
-  <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/badge/Followers-150+-0D1117?style=for-the-badge&logo=people&logoColor=58A6FF&labelColor=0D1117"/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Katapentakill&color=7C3AED&style=for-the-badge&label=Profile+Views"/>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Katapentakill?color=7C3AED&style=for-the-badge&logo=github&logoColor=white&label=Followers"/>
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Katapentakill?color=7C3AED&style=for-the-badge&logo=star&logoColor=white&label=Stars"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🧩 Languages
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
+### 🔥 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,typescript,r,bash&theme=dark" />
+</p>
 
-### 🤖 ML & Data Science
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-21262D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/🤗_Transformers-21262D?style=for-the-badge&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/LangChain-21262D?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
+  <img src="https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge&logo=openai&logoColor=412991"/>
+</p>
 
-### ⚙️ DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apache-airflow&logoColor=017CEE"/>
+### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-21262D?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-21262D?style=for-the-badge&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/Plotly-21262D?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
+  <img src="https://img.shields.io/badge/Jupyter-21262D?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-21262D?style=for-the-badge&logo=apache-spark&logoColor=E25A1C"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure&theme=dark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-21262D?style=for-the-badge&logo=apache-airflow&logoColor=017CEE"/>
+  <img src="https://img.shields.io/badge/MLflow-21262D?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/Snowflake-21262D?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F0F6FC&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F0F6FC&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262D&ring=7C3AED&fire=F85149&currStreakLabel=F0F6FC&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=C9D1D9&dates=7D8590"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🧠 GitHub Metrics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Katapentakill/Katapentakill/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Katapentakill&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
----
+## 📈 Contribution Metrics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0d1117&color=C9D1D9&line=7C3AED&point=F0F6FC&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity%20Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d1117&212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧪 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Blood-Glucose-Prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Natural-Language-Processing-with-Disaster-Tweets&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <a href="https://github.com/Katapentakill/Blood-Glucose-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Blood-Glucose-Prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=7C3AED"/>
+  </a>
+  <a href="https://github.com/Katapentakill/Natural-Language-Processing-with-Disaster-Tweets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Natural-Language-Processing-with-Disaster-Tweets&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=7C3AED"/>
+  </a>
 </div>
 
----
-
-## 📈 Contribution Graph
+## 💼 Professional Highlights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  
+  <!-- Cards con iconos animados -->
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80"/>
+        <br><strong>🎯 ML Models</strong>
+        <br>50+ Deployed
+      </td>
+      <td align="center" width="200px">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80"/>
+        <br><strong>📊 Data Processed</strong>
+        <br>100TB+ Analyzed
+      </td>
+      <td align="center" width="200px">
+        <img src="https://user-images.githubusercontent.com/74038190/229223204-33b4b967-0e5d-46fa-baac-2c1e9c0fc6e0.gif" width="80"/>
+        <br><strong>⚡ Performance</strong>
+        <br>99.9% Accuracy
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Contact Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0077B5&logoWidth=40"/>
   </a>
   <a href="https://kaggle.com/yourprofile">
-    <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20beff"/>
+    <img src="https://img.shields.io/badge/Kaggle-21262D?style=for-the-badge&logo=kaggle&logoColor=20BEFF&logoWidth=40"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/>
+    <img src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=40"/>
   </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-21262D?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=40"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223252-4e02be93-aada-4d6a-9a1c-a4e446c70cdb.gif" width="400"/>
 </div>
 
 ---
 
 <div align="center">
-  <blockquote>💭 "Data is the new oil — refined by algorithms, deployed as innovation."</blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=50&lines=💡+%22Data+is+the+new+oil+—+refined+by+algorithms%2C+deployed+as+innovation.%22;🚀+%22In+AI+we+trust%2C+in+data+we+verify.%22;⚡+%22Code+is+poetry%2C+data+is+the+story+it+tells.%22" alt="Quote typing"/>
 </div>
 
-![Snake animation](https://github.com/Katapentakill/Katapentakill/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Katapentakill/Katapentakill/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=120&section=footer&animation=fadeIn"/>
+
+<!-- Visitor counter con diseño especial -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@Katapentakill?theme=rule34" alt="Visitor Count"/>
+</div>
