@@ -2,41 +2,28 @@ name: 🏆 Generate GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * 1"  # todos los lunes a la medianoche
-  workflow_dispatch:     # también lo puedes ejecutar manualmente
+    - cron: "0 0 * * 1"  # Cada lunes
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repo
+      - name: 📥 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🧪 Setup Node.js
-        uses: actions/setup-node@v3
+      - name: 🏆 Generate trophies with Algolia theme
+        uses: actions-cool/contribution-trophy@v1
         with:
-          node-version: '18'
+          username: Katapentakill
+          theme: algolia
+          svgPath: trophies.svg
+          column: 7
+          noFrame: true
+          noBg: true
 
-      - name: 📦 Clone & Install GitHub Trophy Generator
-        run: |
-          git clone https://github.com/ryo-ma/github-profile-trophy.git
-          cd github-profile-trophy
-          npm install
-
-      - name: 🖼️ Generate SVG with Algolia theme
-        run: |
-          cd github-profile-trophy
-          node ./generate_svg.js \
-            --username Katapentakill \
-            --theme algolia \
-            --no-frame \
-            --no-bg \
-            --margin-w 4 \
-            --column 7 \
-            --output ../trophies.svg
-
-      - name: 🚀 Push trophies.svg to output branch
+      - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
