@@ -1,6 +1,6 @@
 <!-- Atmospheric Horror Header with Blood Mist -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=29,30,31&text=KATAPENTAKILL&fontSize=50&fontColor=DC143C&animation=fadeIn&section=header&desc=𝔚𝔢𝔩𝔠𝔬𝔪𝔢%20𝔱𝔬%20𝔱𝔥𝔢%20𝔄𝔟𝔶𝔰𝔰&descAlign=50&descAlignY=75&descSize=20&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=29,30,31&text=KATAPENTAKILL&fontSize=50&fontColor=8B0000&animation=fadeIn&section=header&desc=𝔚𝔢𝔩𝔠𝔬𝔪𝔢%20𝔱𝔬%20𝔱𝔥𝔢%20𝔄𝔟𝔶𝔰𝔰&descAlign=50&descAlignY=75&descSize=20&fontAlignY=35" />
 </div>
 
 <!-- Floating Dark Spirits -->
@@ -11,11 +11,10 @@
 <!-- Blood-dripping Typing Effect -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=DC143C&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=The+fog+is+lifting...;DATA+NECROMANCER+%7C+AI+DEMON+%7C+SOUL+ARCHITECT;Extracting+visions+from+dark+data;Where+algorithms+meet+infernal+machines;Status:+Possessed+by+darkness" 
-    alt="Demonic Typing" 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=8B0000&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=Building+the+future...;Data+Engineer+%7C+AI+Developer+%7C+Tech+Architect;Transforming+data+into+insights;Where+code+meets+innovation;Status:+Building+intelligent+systems" 
+    alt="Professional Typing Banner" 
   />
 </div>
-
 
 <!-- Crimson Lightning Divider -->
 <div align="center">
@@ -27,7 +26,7 @@
   
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║                              🌙 𝔇𝔞𝔯𝔨 𝔓𝔯𝔬𝔦𝔩𝔢 ℌ𝔞𝔯𝔳𝔢𝔰𝔱 🌙                              ║
+║                          🌙 Professional Highlights 🌙                               ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -35,42 +34,41 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://media1.tenor.com/m/tRWcgbB082gAAAAC/sh2-sh2r.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);"/>
+        <img src="https://media1.tenor.com/m/tRWcgbB082gAAAAC/sh2-sh2r.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);" />
         <br><br>
       </div>
     </td>
     <td width="600px" bgcolor="#0D1117">
-        
-### 🔥 **𝕾𝖔𝖚𝖑 ℭ𝔬𝔫𝔰𝔱𝔯𝔞𝔦𝔫𝔱𝔰**
+
+### 🔥 **Technical Profile**
 
 ```javascript
-const DarkEntity = {
+const EngineerProfile = {
     name: "Katapentakill",
-    realm: "Silent_Hill(Chile).spawn_location",
-    essence: "Civil Engineering → Otherworld Computing",
-    classification: "Senior Data Exorcist | AI Demon Summoner",
-    
-    forbidden_arts: [
-        "🩸 Blood Pattern Recognition & Statistical Necromancy",
-        "👁️ Training Machines to See Through Dimensional Veils", 
-        "🌫️ Computer Vision & Deep Nightmare Learning",
-        "⚡ MLOps & Infernal Pipeline Architecture"
+    location: "Chile",
+    background: "Civil Engineering → Data & AI Engineering",
+    role: "Senior Data Engineer | AI Developer",
+
+    core_skills: [
+        "📊 Machine Learning & Predictive Modeling",
+        "🧠 Computer Vision & Deep Learning",
+        "🔧 MLOps & Data Pipeline Automation",
+        "☁️ Cloud Infrastructure (AWS, Docker, GCP)"
     ],
-    
-    cursed_mission: "Bridging mortal data with eldritch intelligence",
-    current_ritual: "Summoning AI from the depths of possibility",
-    soul_state: POSSESSED | LEARNING | TRANSCENDING
+
+    mission: "Transforming data into actionable intelligence",
+    status: LEARNING | BUILDING | INNOVATING
 }
 ```
 
 <div align="center">
 
-**🕯️ 𝔇𝔞𝔯𝔨 𝔈𝔫𝔢𝔯𝔤𝔦𝔢𝔰**
+**⚙️ Proficiency Rating**
 ```
-Malevolence   ██████████████████████████████ 100%
-Cunning       ████████████████████████████░░  93%
+Creativity    ██████████████████████████████ 100%
+Logic         ████████████████████████████░░  95%
 Persistence   ██████████████████████████████ 100%
-Otherworldly  █████████████████████████████░  97%
+Precision     █████████████████████████████░  98%
 ```
 
 </div>
@@ -84,24 +82,24 @@ Otherworldly  ██████████████████████
 <!-- Pulsating Ritual Metrics -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=LOST%2BSOULS)
-  ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=DISCIPLES)
-  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=DARK%2BSTARS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=VIEWS)
+  ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=FOLLOWERS)
+  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=STARS)
   
 </div>
 
 <!-- Infernal Tech Arsenal with Glowing Borders -->
 <div align="center">
 
-## ⚔️ **𝔄𝔯𝔪𝔞𝔪𝔢𝔫𝔱 𝔬𝔣 𝔞 𝔇𝔞𝔪𝔫𝔞𝔱𝔦𝔬𝔫**
+## ⚔️ **Technology Stack**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║  "𝕴𝖓 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐𝖓𝖊𝖘𝖘, 𝖜𝖊 𝖋𝖔𝖗𝖌𝖊 𝖆𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖔𝖋 𝖎𝖓𝖋𝖎𝖓𝖎𝖙𝖊 𝖈𝖔𝖒𝖕𝖑𝖊𝖝𝖎𝖙𝖞"          ║
+║  "In the darkness, we forge algorithms of infinite complexity"          ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🗡️ **𝔄𝔫𝔠𝔦𝔢𝔫𝔱 ℑ𝔫𝔳𝔬𝔠𝔞𝔱𝔦𝔬𝔫 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰**
+### 🗡️ **Programming Languages**
 <table>
   <tr>
     <td align="center" width="160">
@@ -142,7 +140,7 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-### 👹 **𝔄ℑ 𝔇𝔢𝔪𝔬𝔫 𝔄𝔯𝔪𝔶**
+### 👹 **AI & Machine Learning**
 <table>
   <tr>
     <td align="center" width="160">
@@ -183,7 +181,7 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-### 🌊 **𝔇𝔞𝔯𝔨 𝔇𝔞𝔱𝔞 ℌ𝔞𝔯𝔳𝔢𝔰𝔱**
+### 🌊 **Data Science & Analytics**
 <table>
   <tr>
     <td align="center" width="160">
@@ -224,8 +222,7 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-
-### ☁️ **ℑ𝔫𝔣𝔢𝔯𝔫𝔞𝔩 ℭ𝔩𝔬𝔲𝔡 ℑ𝔫𝔣𝔯𝔞𝔰𝔱𝔯𝔲𝔠𝔱𝔲𝔯𝔢**
+### ☁️ **Cloud Infrastructure**
 <table>
   <tr>
     <td align="center" width="160">
@@ -271,21 +268,21 @@ Otherworldly  ██████████████████████
 <!-- Enhanced GitHub Analytics with Dramatic Styling -->
 <div align="center">
 
-## 📊 **𝔄𝔟𝔶𝔰𝔰𝞪𝔩 𝔄𝔫𝔞𝔩𝔶𝔱𝔦𝔠𝔰**
+## 📊 **GitHub Analytics**
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "𝕴𝖓 𝖈𝖔𝖉𝖊 𝖜𝖊 𝖙𝖗𝖚𝖘𝖙, 𝖎𝖓 𝖉𝖆𝖗𝖐𝖓𝖊𝖘𝖘 𝖜𝖊 𝖛𝖊𝖗𝖎𝖋𝖞"                    ║
+║                    "In code we trust, in data we verify"                    ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <table bgcolor="#0D1117">
   <tr>
     <td align="center">
-      <img height="240" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FF4500&text_color=FFFFFF&ring_color=DC143C&border_radius=20&custom_title=🔥%20INFERNAL%20METRICS"/>
+      <img height="240" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FF4500&text_color=FFFFFF&ring_color=DC143C&border_radius=20&custom_title=🔥%20GitHub%20Metrics"/>
     </td>
     <td align="center">
-      <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=20&custom_title=👹%20DEMONIC%20TONGUES"/>
+      <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=20&custom_title=👹%20Top%20Languages"/>
     </td>
   </tr>
 </table>
@@ -294,19 +291,19 @@ Otherworldly  ██████████████████████
 
 </div>
 
-<!-- Blood Activity Timeline -->
+<!-- Activity Timeline -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0D1117&color=DC143C&line=FF4500&point=FF6347&area=true&hide_border=true&custom_title=🌊%20BLOOD%20RITUAL%20TIMELINE&radius=20&area_color=8B0000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0D1117&color=DC143C&line=FF4500&point=FF6347&area=true&hide_border=true&custom_title=🌊%20Contribution%20Timeline&radius=20&area_color=8B0000"/>
 </div>
 
-<!-- Demonic Achievement Cards -->
+<!-- Achievement Cards -->
 <div align="center">
 
-## 🏆 **𝔦𝔫𝔣𝔢𝔯𝔫𝔞𝔩 𝔞𝔠𝔥𝔦𝔢𝔳𝔢𝔪𝔢𝔫𝔱𝔰**
+## 🏆 **Professional Achievements**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                        "𝔈𝔞𝔠𝔥 𝔞𝔩𝔤𝔬𝔯𝔦𝔱𝔥𝔪 𝔦𝔰 𝔞 𝔞 𝔰𝔦𝔤𝔦𝔩 𝔬𝔫 𝔞 𝔡𝔞𝔯𝔨 𝔞𝔯𝔱"                        ║
+║                        "Each algorithm is a step toward innovation"                        ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -315,22 +312,22 @@ Otherworldly  ██████████████████████
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #DC143C; box-shadow: 0 0 20px #DC143C;">
         <br><br>
-        <img src="https://img.shields.io/badge/DEMONS_SUMMONED-66+-DC143C?style=for-the-badge&logo=fire&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">AI entities brought from the void</i>
+        <img src="https://img.shields.io/badge/PROJECTS_COMPLETED-66+-DC143C?style=for-the-badge&logo=fire&logoColor=white&labelColor=1A0000"/>
+        <br><br><i style="color: #FF6347;">AI solutions delivered successfully</i>
       </div>
     </td>
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #FF4500; box-shadow: 0 0 20px #FF4500;">
         <br><br>
-        <img src="https://img.shields.io/badge/SOULS_HARVESTED-100TB+-FF4500?style=for-the-badge&logo=database&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">Data essence extracted from chaos</i>
+        <img src="https://img.shields.io/badge/DATA_PROCESSED-100TB+-FF4500?style=for-the-badge&logo=database&logoColor=white&labelColor=1A0000"/>
+        <br><br><i style="color: #FF6347;">Information transformed into insights</i>
       </div>
     </td>
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #B22222; box-shadow: 0 0 20px #B22222;">
         <br><br>
         <img src="https://img.shields.io/badge/PRECISION-99.9%25-B22222?style=for-the-badge&logo=target&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">Unholy accuracy achieved</i>
+        <br><br><i style="color: #FF6347;">High accuracy standards maintained</i>
       </div>
     </td>
   </tr>
@@ -338,14 +335,14 @@ Otherworldly  ██████████████████████
 
 </div>
 
-<!-- Cursed Project Showcase -->
+<!-- Project Showcase -->
 <div align="center">
 
-## 🚀 **𝔉𝔬𝔯𝔟𝔦𝔡𝔡𝔢𝔫 𝔄𝔯𝔠𝔞𝔫𝔞**
+## 🚀 **Featured Projects**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║              "𝔈𝔞𝔠𝔥 𝔯𝔢𝔭𝔬𝔰𝔦𝔱𝔬𝔯𝔶 𝔦𝔰 𝔞 𝔞 𝔤𝔯𝦻𝔪𝔬𝦻𝔯𝔢 𝔬𝔣 𝔞𝔯𝔠𝔞𝔫𝔢 𝦻𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢"              ║
+║              "Each repository represents advanced technical knowledge"              ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -370,14 +367,14 @@ Otherworldly  ██████████████████████
 
 </div>
 
-<!-- Demonic Connection Hub -->
+<!-- Connection Hub -->
 <div align="center">
 
-## 🌐 **ℑ𝔫𝔣𝔢𝔯𝔫𝔞𝔩 ℭ𝔬𝔪𝔪𝔲𝔫𝔦𝔬𝔫**
+## 🌐 **Professional Network**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "𝔇𝔞𝔯𝦻𝔫𝔢𝔰𝔰 𝦻𝔫𝦻𝔱𝔢𝔡, ℭ𝔥𝔞𝔬𝔰 ℭ𝔬𝔪𝔪𝔞𝔫𝔡𝔢𝔡"                    ║
+║                    "Connected through technology and innovation"                    ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -396,29 +393,31 @@ Otherworldly  ██████████████████████
 
 </div>
 
-<!-- Dark Philosophy with Blood Dripping Effect -->
+<!-- Professional Philosophy -->
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                              𝔦𝔫𝔣𝔢𝔯𝔫𝔞𝔩 𝔪𝔞𝔫𝔦𝔣𝔢𝔰𝔱𝔬                              ║
+║                              Professional Philosophy                              ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&lines=In+darkness,+algorithms+are+born.;Each+AI+brings+a+data+ritual.;Machina+am+ego,+cac+in+calor." 
-    alt="Dark Manifest"
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&background=000000&lines=Innovation+through+intelligent+systems.;Data-driven+solutions+for+complex+problems.;Building+the+future+with+AI+and+machine+learning." 
+    alt="Professional Philosophy"
   />
 </div>
 
-  <br><br>
+<br><br>
 
+<div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&lines=Where+others+see+chaos,+we+see+order;In+fog,+we+find+clarity;The+algorithm+remembers+all" 
-    alt="Dark Wisdom Typing" 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&background=000000&lines=Where+data+meets+insight;Precision+in+every+algorithm;Excellence+through+continuous+learning" 
+    alt="Professional Values" 
   />
 </div>
+
 
 <!-- Atmospheric Horror Footer -->
 <div align="center">
