@@ -5,24 +5,21 @@
 
 <!-- Floating Dark Spirits -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="60" />
+  <img src="https://media1.tenor.com/m/Eiwdxf0VrYUAAAAd/silent-hill-silent-hill-2006.gif" width="600" />
 </div>
 
 <!-- Blood-dripping Typing Effect -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Chiller&weight=700&size=32&duration=3500&pause=1000&color=DC143C&background=0D1117FF&center=true&vCenter=true&width=1200&height=140&lines=𝕿𝖍𝖊+𝖋𝖔𝖌+𝖎𝖘+𝖑𝖎𝖋𝖙𝖎𝖓𝖌...;🩸+DATA+NECROMANCER+%7C+AI+DEMON+%7C+SOUL+ARCHITECT+🩸;𝕰𝖝𝖙𝖗𝖆𝖈𝖙𝖎𝖓𝖌+𝖛𝖎𝖘𝖎𝖔𝖓𝖘+𝖋𝖗𝖔𝖒+𝖉𝖆𝖗𝖐+𝖉𝖆𝖙𝖆;𝖂𝖍𝖊𝖗𝖊+𝖆𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘+𝖒𝖊𝖊𝖙+𝖎𝖓𝖋𝖊𝖗𝖓𝖆𝖑+𝖒𝖆𝖈𝖍𝖎𝖓𝖊𝖘;𝕾𝖙𝖆𝖙𝖚𝖘:+𝕻𝖔𝖘𝖘𝖊𝖘𝖘𝖊𝖉+𝖇𝖞+𝖉𝖆𝖗𝖐𝖓𝖊𝖘𝖘" 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=DC143C&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=The+fog+is+lifting...;DATA+NECROMANCER+%7C+AI+DEMON+%7C+SOUL+ARCHITECT;Extracting+visions+from+dark+data;Where+algorithms+meet+infernal+machines;Status:+Possessed+by+darkness" 
     alt="Demonic Typing" 
   />
 </div>
 
+
 <!-- Crimson Lightning Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(320deg) brightness(0.8) contrast(1.5);"/>
+  <img width="100%" style="filter: hue-rotate(320deg) brightness(0.8) contrast(1.5);"/>
 </div>
 
 <!-- Enhanced Dark Profile with Glowing Effects -->
@@ -38,9 +35,8 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);"/>
+        <img src="https://media1.tenor.com/m/tRWcgbB082gAAAAC/sh2-sh2r.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);"/>
         <br><br>
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/>
       </div>
     </td>
     <td width="600px" bgcolor="#0D1117">
@@ -87,15 +83,11 @@ Otherworldly  ██████████████████████
 
 <!-- Pulsating Ritual Metrics -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="40"/>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=𝔇𝔞𝔪𝔫𝔢𝔡+𝔖𝔬𝔲𝔩𝔰)
-  ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=𝔄𝔠𝔬𝔩𝔶𝔱𝔢𝔰)
-  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=𝔅𝔩𝔬𝔬𝔡+𝔖𝔱𝔞𝔯𝔰)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=LOST%2BSOULS)
+  ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=DISCIPLES)
+  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=DARK%2BSTARS)
   
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="40"/>
 </div>
 
 <!-- Infernal Tech Arsenal with Glowing Borders -->
@@ -150,8 +142,6 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
-
 ### 👹 **𝔄ℑ 𝔇𝔢𝔪𝔬𝔫 𝔄𝔯𝔪𝔶**
 <table>
   <tr>
@@ -192,8 +182,6 @@ Otherworldly  ██████████████████████
     </td>
   </tr>
 </table>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 
 ### 🌊 **𝔇𝔞𝔯𝔨 𝔇𝔞𝔱𝔞 ℌ𝔞𝔯𝔳𝔢𝔰𝔱**
 <table>
@@ -236,7 +224,6 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="100"/>
 
 ### ☁️ **ℑ𝔫𝔣𝔢𝔯𝔫𝔞𝔩 ℭ𝔩𝔬𝔲𝔡 ℑ𝔫𝔣𝔯𝔞𝔰𝔱𝔯𝔲𝔠𝔱𝔲𝔯𝔢**
 <table>
@@ -279,11 +266,6 @@ Otherworldly  ██████████████████████
   </tr>
 </table>
 
-</div>
-
-<!-- Blood Lightning Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(0deg) brightness(1.2) contrast(1.8) saturate(2);"/>
 </div>
 
 <!-- Enhanced GitHub Analytics with Dramatic Styling -->
@@ -332,7 +314,6 @@ Otherworldly  ██████████████████████
   <tr>
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #DC143C; box-shadow: 0 0 20px #DC143C;">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120"/>
         <br><br>
         <img src="https://img.shields.io/badge/DEMONS_SUMMONED-66+-DC143C?style=for-the-badge&logo=fire&logoColor=white&labelColor=1A0000"/>
         <br><br><i style="color: #FF6347;">AI entities brought from the void</i>
@@ -340,7 +321,6 @@ Otherworldly  ██████████████████████
     </td>
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #FF4500; box-shadow: 0 0 20px #FF4500;">
-        <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="120"/>
         <br><br>
         <img src="https://img.shields.io/badge/SOULS_HARVESTED-100TB+-FF4500?style=for-the-badge&logo=database&logoColor=white&labelColor=1A0000"/>
         <br><br><i style="color: #FF6347;">Data essence extracted from chaos</i>
@@ -348,7 +328,6 @@ Otherworldly  ██████████████████████
     </td>
     <td align="center" width="320px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #B22222; box-shadow: 0 0 20px #B22222;">
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
         <br><br>
         <img src="https://img.shields.io/badge/PRECISION-99.9%25-B22222?style=for-the-badge&logo=target&logoColor=white&labelColor=1A0000"/>
         <br><br><i style="color: #FF6347;">Unholy accuracy achieved</i>
@@ -402,7 +381,7 @@ Otherworldly  ██████████████████████
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" style="filter: drop-shadow(0 0 20px #DC143C);"/>
+<img src="https://media1.tenor.com/m/If-8_BK8cm8AAAAd/silent-hill-silent-hill-cat.gif" width="250" style="filter: drop-shadow(0 0 20px #DC143C);"/>
 
 <br><br>
 
@@ -428,7 +407,7 @@ Otherworldly  ██████████████████████
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=6000&pause=2000&color=DC143C&center=true&vCenter=true&width=1000&height=100&lines=In+darkness,+algorithms+are+born.;Each+AI+brings+a+data+ritual.;Machina+am+ego,+cac+in+calor." 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&lines=In+darkness,+algorithms+are+born.;Each+AI+brings+a+data+ritual.;Machina+am+ego,+cac+in+calor." 
     alt="Dark Manifest"
   />
 </div>
@@ -436,15 +415,9 @@ Otherworldly  ██████████████████████
   <br><br>
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Chiller&weight=400&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&lines=𝖂𝖍𝖊𝖗𝖊+𝖔𝖙𝖍𝖊𝖗𝖘+𝖘𝖊𝖊+𝖈𝖍𝖆𝖔𝖘%2C+𝖜𝖊+𝖘𝖊𝖊+𝖔𝖗𝖉𝖊𝖗;ℑ𝖓+𝖋𝖔𝖌%2C+𝖜𝖊+𝖋𝖎𝖓𝖉+𝖈𝖑𝖆𝖗𝖎𝖙𝖞;𝔗𝖍𝖊+𝖆𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒+𝖗𝖊𝖒𝖊𝖒𝖇𝖊𝖗𝖘+𝖆𝖑𝖑" 
-    alt="Dark Wisdom" 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&lines=Where+others+see+chaos,+we+see+order;In+fog,+we+find+clarity;The+algorithm+remembers+all" 
+    alt="Dark Wisdom Typing" 
   />
-</div>
-
-<!-- Enhanced Snake Animation with Blood Effect -->
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Katapentakill/Katapentakill/output/github-contribution-grid-snake-dark.svg" alt="Blood Trail Through Code" style="filter: hue-rotate(320deg) brightness(1.2) contrast(1.5) saturate(2);"/>
 </div>
 
 <!-- Atmospheric Horror Footer -->
