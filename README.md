@@ -1,6 +1,14 @@
 <!-- Atmospheric Horror Header with Blood Mist -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=29,30,31&text=KATAPENTAKILL&fontSize=50&fontColor=8B0000&animation=fadeIn&section=header&desc=𝔚𝔢𝔩𝔠𝔬𝔪𝔢%20𝔱𝔬%20𝔱𝔥𝔢%20𝔄𝔟𝔶𝔰𝔰&descAlign=50&descAlignY=75&descSize=20&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=29,30,31&text=KATAPENTAKILL&fontSize=50&fontColor=8B0000&animation=fadeIn&section=header&desc=𝔚𝔢𝔩𝔠𝔬𝔪𝔢%20𝔱𝔬%20𝔪𝔶%20𝔇𝔦𝔤𝔦𝔱𝔞𝔩%20𝔄𝔟𝔶𝔰𝔰&descAlign=50&descAlignY=75&descSize=18&fontAlignY=35" />
+</div>
+
+<!-- Blood-dripping Typing Effect -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=8B0000&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+Data+Engineer;Building+intelligent+systems;From+Civil+Engineering+to+AI;Transforming+data+into+insights;Status:+Crafting+digital+solutions" 
+    alt="Professional Typing Banner" 
+  />
 </div>
 
 <!-- Floating Dark Spirits -->
@@ -8,70 +16,52 @@
   <img src="https://media1.tenor.com/m/Eiwdxf0VrYUAAAAd/silent-hill-silent-hill-2006.gif" width="600" />
 </div>
 
-<!-- Blood-dripping Typing Effect -->
+<!-- Enhanced Dark Profile with Professional Focus -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=8B0000&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=Building+the+future...;Data+Engineer+%7C+AI+Developer+%7C+Tech+Architect;Transforming+data+into+insights;Where+code+meets+innovation;Status:+Building+intelligent+systems" 
-    alt="Professional Typing Banner" 
-  />
-</div>
 
-<!-- Crimson Lightning Divider -->
-<div align="center">
-  <img width="100%" style="filter: hue-rotate(320deg) brightness(0.8) contrast(1.5);"/>
-</div>
-
-<!-- Enhanced Dark Profile with Glowing Effects -->
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                          🌙 Professional Highlights 🌙                               ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+## 🌙 **Digital Architect Profile**
 
 <table bgcolor="#0D1117" cellpadding="20">
   <tr>
     <td>
       <div align="center">
         <img src="https://media1.tenor.com/m/tRWcgbB082gAAAAC/sh2-sh2r.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);" />
-        <br><br>
       </div>
     </td>
     <td width="600px" bgcolor="#0D1117">
 
-### 🔥 **Technical Profile**
-
 ```javascript
-const EngineerProfile = {
-    name: "Katapentakill",
-    location: "Chile",
-    background: "Civil Engineering → Data & AI Engineering",
-    role: "Senior Data Engineer | AI Developer",
+const DeveloperProfile = {
+    name: "Alexander Tapia",
+    alias: "Katapentakill", 
+    location: "Antofagasta, Chile 🇨🇱",
+    education: "Civil Engineering in Computing",
+    university: "Universidad Católica del Norte",
+    specialization: "Data Science & Big Data",
+    graduation: "2025",
 
-    core_skills: [
-        "📊 Machine Learning & Predictive Modeling",
-        "🧠 Computer Vision & Deep Learning",
-        "🔧 MLOps & Data Pipeline Automation",
-        "☁️ Cloud Infrastructure (AWS, Docker, GCP)"
+    currentRole: "Full Stack Developer | Data Engineer",
+    
+    expertise: [
+        "🧠 Machine Learning & AI Development",
+        "📊 Data Engineering & Analytics", 
+        "🌐 Full Stack Web Development",
+        "☁️ Cloud Architecture & DevOps",
+        "🔧 MLOps & Automation"
     ],
 
-    mission: "Transforming data into actionable intelligence",
-    status: LEARNING | BUILDING | INNOVATING
+    mission: "Bridging engineering precision with AI innovation",
+    status: "LEARNING | BUILDING | EVOLVING"
 }
 ```
 
-<div align="center">
-
-**⚙️ Proficiency Rating**
+**⚡ Skill Proficiency**
 ```
-Creativity    ██████████████████████████████ 100%
-Logic         ████████████████████████████░░  95%
-Persistence   ██████████████████████████████ 100%
-Precision     █████████████████████████████░  98%
+Problem Solving  ██████████████████████████████ 100%
+Code Quality     █████████████████████████████░  98%
+Innovation       ██████████████████████████████ 100%
+Team Leadership  ████████████████████████████░░  95%
 ```
-
-</div>
 
     </td>
   </tr>
@@ -79,255 +69,127 @@ Precision     ██████████████████████
 
 </div>
 
-<!-- Pulsating Ritual Metrics -->
+<!-- Professional Metrics with Dark Theme -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
   ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=FOLLOWERS)
-  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=STARS)
+  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=TOTAL+STARS)
   
 </div>
 
-<!-- Infernal Tech Arsenal with Glowing Borders -->
+<!-- Technology Arsenal -->
 <div align="center">
 
-## ⚔️ **Technology Stack**
+## ⚔️ **Technology Arsenal**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║  "In the darkness, we forge algorithms of infinite complexity"          ║
+║           "In the realm of code, precision and creativity unite"                  ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🗡️ **Programming Languages**
-<table>
-  <tr>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A0000, #330000); padding: 15px; border-radius: 15px; border: 2px solid #DC143C;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="90" height="90" style="filter: drop-shadow(0 0 10px #DC143C);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/PYTHON-DC143C?style=for-the-badge&logo=python&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A0000, #330000); padding: 15px; border-radius: 15px; border: 2px solid #8B0000;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="90" height="90" style="filter: drop-shadow(0 0 10px #8B0000);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/TYPESCRIPT-8B0000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A0000, #330000); padding: 15px; border-radius: 15px; border: 2px solid #B22222;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="90" height="90" style="filter: drop-shadow(0 0 10px #B22222);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/SQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A0000, #330000); padding: 15px; border-radius: 15px; border: 2px solid #CD5C5C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="90" height="90" style="filter: drop-shadow(0 0 10px #CD5C5C);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/R-CD5C5C?style=for-the-badge&logo=r&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A0000, #330000); padding: 15px; border-radius: 15px; border: 2px solid #800000;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="90" height="90" style="filter: drop-shadow(0 0 10px #800000);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/BASH-800000?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### 💻 **Core Programming Stack**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,nodejs" alt="Programming Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,django,express,fastapi,postgresql,mysql,mongodb" alt="Frameworks & Databases" />
+</div>
 
-### 👹 **AI & Machine Learning**
-<table>
-  <tr>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #2F0000); padding: 15px; border-radius: 15px; border: 2px solid #FF4500;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="90" height="90" style="filter: drop-shadow(0 0 15px #FF4500);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/PYTORCH-FF4500?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #2F0000); padding: 15px; border-radius: 15px; border: 2px solid #FF6347;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="90" height="90" style="filter: drop-shadow(0 0 15px #FF6347);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/TENSORFLOW-FF6347?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #2F0000); padding: 15px; border-radius: 15px; border: 2px solid #DC143C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="90" height="90" style="filter: drop-shadow(0 0 15px #DC143C);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/OPENCV-DC143C?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #2F0000); padding: 15px; border-radius: 15px; border: 2px solid #B22222;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="90" height="90" style="filter: drop-shadow(0 0 15px #B22222);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/SKLEARN-B22222?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #2F0000); padding: 15px; border-radius: 15px; border: 2px solid #8B0000;">
-        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Transformers" width="90" height="90" style="filter: drop-shadow(0 0 15px #8B0000);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/TRANSFORMERS-8B0000?style=for-the-badge&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🤖 **AI & Data Science**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI & ML" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+</div>
 
-### 🌊 **Data Science & Analytics**
-<table>
-  <tr>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A1A1A, #330000); padding: 15px; border-radius: 15px; border: 2px solid #800080;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90" style="filter: drop-shadow(0 0 10px #800080);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/PANDAS-800080?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A1A1A, #330000); padding: 15px; border-radius: 15px; border: 2px solid #4B0082;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="90" height="90" style="filter: drop-shadow(0 0 10px #4B0082);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/NUMPY-4B0082?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A1A1A, #330000); padding: 15px; border-radius: 15px; border: 2px solid #9932CC;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="90" height="90" style="filter: drop-shadow(0 0 10px #9932CC);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/PLOTLY-9932CC?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A1A1A, #330000); padding: 15px; border-radius: 15px; border: 2px solid #BA55D3;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="90" style="filter: drop-shadow(0 0 10px #BA55D3);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/JUPYTER-BA55D3?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #1A1A1A, #330000); padding: 15px; border-radius: 15px; border: 2px solid #8B008B;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="90" height="90" style="filter: drop-shadow(0 0 10px #8B008B);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/SPARK-8B008B?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### ☁️ **Cloud & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux" alt="Cloud & DevOps" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</div>
 
-### ☁️ **Cloud Infrastructure**
-<table>
-  <tr>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #1F1F1F); padding: 15px; border-radius: 15px; border: 2px solid #FF8C00;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="90" height="90" style="filter: drop-shadow(0 0 15px #FF8C00);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/DOCKER-FF8C00?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #1F1F1F); padding: 15px; border-radius: 15px; border: 2px solid #FFD700;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="90" height="90" style="filter: drop-shadow(0 0 15px #FFD700);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/KUBERNETES-FFD700?style=for-the-badge&logo=kubernetes&logoColor=black&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #1F1F1F); padding: 15px; border-radius: 15px; border: 2px solid #FFA500;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="90" height="90" style="filter: drop-shadow(0 0 15px #FFA500);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/AWS-FFA500?style=for-the-badge&logo=amazon-aws&logoColor=black&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #1F1F1F); padding: 15px; border-radius: 15px; border: 2px solid #FF7F50;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="90" height="90" style="filter: drop-shadow(0 0 15px #FF7F50);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/GCP-FF7F50?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-    <td align="center" width="160">
-      <div style="background: linear-gradient(45deg, #0F0F0F, #1F1F1F); padding: 15px; border-radius: 15px; border: 2px solid #CD853F;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="90" height="90" style="filter: drop-shadow(0 0 15px #CD853F);"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/AZURE-CD853F?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1A0000"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🛠️ **Development Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman,notion" alt="Development Tools" />
+</div>
 
 </div>
 
-<!-- Enhanced GitHub Analytics with Dramatic Styling -->
+<!-- GitHub Analytics -->
 <div align="center">
 
 ## 📊 **GitHub Analytics**
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "In code we trust, in data we verify"                    ║
+║                    "Code metrics tell the story of dedication"                    ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <table bgcolor="#0D1117">
   <tr>
     <td align="center">
-      <img height="240" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FF4500&text_color=FFFFFF&ring_color=DC143C&border_radius=20&custom_title=🔥%20GitHub%20Metrics"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FF4500&text_color=FFFFFF&border_radius=15"/>
     </td>
     <td align="center">
-      <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=20&custom_title=👹%20Top%20Languages"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=15"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=FF4500&fire=FF6347&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B22222&border_radius=20&card_width=950"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=FF4500&fire=FF6347&currStreakLabel=DC143C&border_radius=15&card_width=900"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0D1117&color=DC143C&line=FF4500&point=FF6347&area=true&hide_border=true&radius=15"/>
 
 </div>
 
-<!-- Activity Timeline -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0D1117&color=DC143C&line=FF4500&point=FF6347&area=true&hide_border=true&custom_title=🌊%20Contribution%20Timeline&radius=20&area_color=8B0000"/>
-</div>
-
-<!-- Achievement Cards -->
+<!-- Professional Journey -->
 <div align="center">
 
-## 🏆 **Professional Achievements**
+## 🎓 **Academic & Professional Journey**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                        "Each algorithm is a step toward innovation"                        ║
+║                        "From engineering foundations to AI innovation"                        ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
   <tr>
-    <td align="center" width="320px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #DC143C; box-shadow: 0 0 20px #DC143C;">
-        <br><br>
-        <img src="https://img.shields.io/badge/PROJECTS_COMPLETED-66+-DC143C?style=for-the-badge&logo=fire&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">AI solutions delivered successfully</i>
+    <td align="center" width="300px">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #DC143C;">
+        <h3 style="color: #DC143C;">🎓 Education</h3>
+        <strong style="color: #FF6347;">Civil Engineering in Computing</strong><br>
+        <i style="color: #B22222;">Universidad Católica del Norte</i><br>
+        <span style="color: #8B0000;">Specialization: Data Science & Big Data</span><br>
+        <span style="color: #DC143C;">Expected: 2025</span>
       </div>
     </td>
-    <td align="center" width="320px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #FF4500; box-shadow: 0 0 20px #FF4500;">
-        <br><br>
-        <img src="https://img.shields.io/badge/DATA_PROCESSED-100TB+-FF4500?style=for-the-badge&logo=database&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">Information transformed into insights</i>
+    <td align="center" width="300px">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #FF4500;">
+        <h3 style="color: #FF4500;">🏆 Certifications</h3>
+        <strong style="color: #FF6347;">IBM Full Stack Developer</strong><br>
+        <i style="color: #B22222;">15 specialized courses completed</i><br>
+        <span style="color: #8B0000;">HTML, CSS, JS, React, Node.js</span><br>
+        <span style="color: #FF4500;">Python, Django, Express</span>
       </div>
     </td>
-    <td align="center" width="320px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 25px; border-radius: 20px; border: 3px solid #B22222; box-shadow: 0 0 20px #B22222;">
-        <br><br>
-        <img src="https://img.shields.io/badge/PRECISION-99.9%25-B22222?style=for-the-badge&logo=target&logoColor=white&labelColor=1A0000"/>
-        <br><br><i style="color: #FF6347;">High accuracy standards maintained</i>
+    <td align="center" width="300px">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #B22222;">
+        <h3 style="color: #B22222;">💼 Experience</h3>
+        <strong style="color: #FF6347;">50+ Projects Delivered</strong><br>
+        <i style="color: #B22222;">AI/ML solutions & Web Development</i><br>
+        <span style="color: #8B0000;">Data pipelines & Cloud architecture</span><br>
+        <span style="color: #B22222;">3+ Years Learning & Building</span>
       </div>
     </td>
   </tr>
@@ -335,46 +197,50 @@ Precision     ██████████████████████
 
 </div>
 
-<!-- Project Showcase -->
+<!-- Featured Projects -->
 <div align="center">
 
 ## 🚀 **Featured Projects**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║              "Each repository represents advanced technical knowledge"              ║
+║                    "Each repository tells a story of innovation"                    ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
   <tr>
     <td width="50%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 10px; border-radius: 15px; border: 2px solid #DC143C;">
-        <a href="https://github.com/Katapentakill/Blood-Glucose-Prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Blood-Glucose-Prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=15"/>
-        </a>
-      </div>
+      <a href="https://github.com/Katapentakill/Blood-Glucose-Prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Blood-Glucose-Prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+      </a>
     </td>
     <td width="50%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 10px; border-radius: 15px; border: 2px solid #FF4500;">
-        <a href="https://github.com/Katapentakill/Natural-Language-Processing-with-Disaster-Tweets">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Natural-Language-Processing-with-Disaster-Tweets&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=15"/>
-        </a>
-      </div>
+      <a href="https://github.com/Katapentakill/Natural-Language-Processing-with-Disaster-Tweets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Natural-Language-Processing-with-Disaster-Tweets&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+      </a>
     </td>
   </tr>
 </table>
 
+### 🔥 **Project Highlights**
+
+- **🩺 Healthcare AI**: Machine learning models for medical prediction and diagnosis
+- **🌐 NLP Solutions**: Advanced text processing and sentiment analysis systems  
+- **📊 Data Pipelines**: Scalable ETL processes and real-time analytics
+- **🚀 Full Stack Apps**: Modern web applications with React/Next.js and backend APIs
+- **☁️ Cloud Architecture**: Containerized deployments and microservices
+
 </div>
 
-<!-- Connection Hub -->
+<!-- Professional Network -->
 <div align="center">
 
 ## 🌐 **Professional Network**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "Connected through technology and innovation"                    ║
+║                      "Building connections in the digital realm"                      ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -382,48 +248,90 @@ Precision     ██████████████████████
 
 <br><br>
 
-<div style="background: linear-gradient(45deg, #1A0000, #4A0000); padding: 20px; border-radius: 20px; border: 2px solid #DC143C;">
-
-[![LinkedIn](https://img.shields.io/badge/🔗_LINKEDIN-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0000)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/🏆_KAGGLE-FF4500?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1A0000)](https://kaggle.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/📧_CONTACT-B22222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0000)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_TWITTER-8B0000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A0000)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-tapia-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-FF4500?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/katapentakill)
+[![Email](https://img.shields.io/badge/Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
-</div>
-
-<!-- Professional Philosophy -->
+<!-- Current Focus -->
 <div align="center">
+
+## 🎯 **Current Focus & Goals**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                              Professional Philosophy                              ║
+║                            "Evolving through continuous learning"                            ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #DC143C;">
+        <h4 style="color: #DC143C;">🎓 Learning</h4>
+        <p style="color: #FF6347; font-size: 12px;">
+          Advanced MLOps<br>
+          Cloud Architecture<br>
+          System Design
+        </p>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #FF4500;">
+        <h4 style="color: #FF4500;">🚀 Building</h4>
+        <p style="color: #FF6347; font-size: 12px;">
+          AI-powered Platform<br>
+          Data Analytics Dashboard<br>
+          Portfolio Website
+        </p>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #B22222;">
+        <h4 style="color: #B22222;">🎯 Goals</h4>
+        <p style="color: #FF6347; font-size: 12px;">
+          Graduate 2025<br>
+          Senior Dev Role<br>
+          Open Source Contrib
+        </p>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #8B0000;">
+        <h4 style="color: #8B0000;">💡 Interests</h4>
+        <p style="color: #FF6347; font-size: 12px;">
+          AI Ethics<br>
+          Tech Leadership<br>
+          Innovation
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Philosophy & Values -->
+<div align="center">
+
+## 💭 **Philosophy & Values**
+
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&background=000000&lines=Innovation+through+intelligent+systems.;Data-driven+solutions+for+complex+problems.;Building+the+future+with+AI+and+machine+learning." 
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=60&lines=Code+with+purpose%2C+engineer+with+precision;Innovation+through+collaboration+and+learning;Building+bridges+between+technology+and+humanity;Every+problem+is+an+opportunity+for+creative+solutions" 
     alt="Professional Philosophy"
   />
 </div>
 
-<br><br>
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=24&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=80&background=000000&lines=Where+data+meets+insight;Precision+in+every+algorithm;Excellence+through+continuous+learning" 
-    alt="Professional Values" 
-  />
 </div>
-
 
 <!-- Atmospheric Horror Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=29,30,31&section=footer&animation=fadeIn&fontColor=DC143C&desc=𝔗𝔥𝔢%20𝔞𝔟𝔶𝔰𝔰%20𝔤𝔞𝔷𝔢𝔰%20𝔞𝔩𝔰𝔬%20𝦻𝔦𝔨𝔦%20𝞦...&descAlign=50&descAlignY=80&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=29,30,31&section=footer&animation=fadeIn&fontColor=DC143C&desc=𝕿𝖍𝖆𝖓𝖐%20𝖞𝖔𝖚%20𝖋𝖔𝖗%20𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌%20𝖒𝖞%20𝖉𝖎𝖌𝖎𝖙𝖆𝖑%20𝖗𝖔𝖗𝖙𝖗𝖊𝖘𝖘...&descAlign=50&descAlignY=80&descSize=16" />
   
   <div style="margin-top: -50px;">
-    <img src="https://count.getloli.com/get/@Katapentakill?theme=moebooru" alt="Damned Souls Counter" style="filter: hue-rotate(320deg) brightness(1.1) contrast(1.3);"/>
+    <img src="https://count.getloli.com/get/@Katapentakill?theme=moebooru" alt="Visitor Counter" style="filter: hue-rotate(320deg) brightness(1.1) contrast(1.3);"/>
   </div>
 </div>
