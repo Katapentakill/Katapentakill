@@ -50,6 +50,10 @@ const DeveloperProfile = {
         "🔧 MLOps & Automation"
     ],
 
+    projectsCompleted: "75+ repositories across 3 main collections",
+    linesOfCode: "175,000+ lines across all projects",
+    techStack: "25+ technologies mastered",
+    
     mission: "Bridging engineering precision with AI innovation",
     status: "LEARNING | BUILDING | EVOLVING"
 }
@@ -91,33 +95,60 @@ Team Leadership  █████████████████████
 
 ### 💻 **Core Programming Stack**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,nodejs" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,go,cs" alt="Programming Languages" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,django,express,fastapi,postgresql,mysql,mongodb" alt="Frameworks & Databases" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,nestjs,django,flask,express" alt="Frameworks" />
 </div>
 
 ### 🤖 **AI & Data Science**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI & ML" />
   <br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFD91A?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/XGBoost-FFA500?style=for-the-badge&logoColor=white"/>
+</div>
+
+### 🗄️ **Databases & Storage**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis" alt="Databases" />
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div>
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux,nginx" alt="Cloud & DevOps" />
   <br><br>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </div>
 
 ### 🛠️ **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman,notion" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman,electron,vite" alt="Development Tools" />
+  <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
+
+### 🔧 **Additional Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A8?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Watson_NLU-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 </div>
 
 </div>
@@ -152,7 +183,132 @@ Team Leadership  █████████████████████
 
 </div>
 
-<!-- Professional Journey -->
+<!-- Project Repositories Collection -->
+<div align="center">
+
+## 🏗️ **Repository Arsenal**
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                    "Three realms of digital mastery - Each a gateway to innovation"                    ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<table bgcolor="#0D1117">
+  <tr>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #DC143C; margin: 10px;">
+        <a href="https://github.com/Katapentakill/University_Projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=University_Projects&theme=radical&hide_border=true&bg_color=1A0000&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+        </a>
+        <br><br>
+        <h3 style="color: #DC143C;">🎓 Academic Mastery</h3>
+        <p style="color: #FF6347; font-size: 14px;">
+          <strong>8 Complete Projects</strong><br>
+          75,000+ lines of code<br>
+          <span style="color: #8B0000;">Enterprise-level solutions</span>
+        </p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #FF4500; margin: 10px;">
+        <a href="https://github.com/Katapentakill/IBM_Projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=IBM_Projects&theme=radical&hide_border=true&bg_color=1A0000&title_color=FF4500&text_color=FFFFFF&icon_color=DC143C&border_radius=10"/>
+        </a>
+        <br><br>
+        <h3 style="color: #FF4500;">💼 Professional Certification</h3>
+        <p style="color: #FF6347; font-size: 14px;">
+          <strong>7 IBM Projects</strong><br>
+          Full Stack Certificate<br>
+          <span style="color: #8B0000;">Industry best practices</span>
+        </p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #B22222; margin: 10px;">
+        <a href="https://github.com/Katapentakill/data-science-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=data-science-portfolio&theme=radical&hide_border=true&bg_color=1A0000&title_color=B22222&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+        </a>
+        <br><br>
+        <h3 style="color: #B22222;">📊 Data Science Realm</h3>
+        <p style="color: #FF6347; font-size: 14px;">
+          <strong>11+ ML Projects</strong><br>
+          Kaggle competitions<br>
+          <span style="color: #8B0000;">AI/ML innovation</span>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Featured Projects -->
+<div align="center">
+
+## 🚀 **Featured Dark Arts**
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                    "Each repository tells a story of innovation"                    ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+### 🔥 **University Projects - Academic Excellence**
+- **🧠 Clasificador de Comentarios FCAB**: Electron + Python + Hugging Face - AI-powered desktop app
+- **🎯 Microservicios con CI/CD**: 8 microservices + Docker + GitHub Actions - Enterprise architecture  
+- **🎯 Plataforma de Microservicios**: 6 microservices + gRPC + RabbitMQ + API Gateway - Distributed system
+- **🛒 VirtuBazaar E-commerce**: ASP.NET Core + Angular + Ionic - Full-stack platform
+- **📊 API Multi-Base de Datos**: NestJS + PostgreSQL + MongoDB + MariaDB - Multi-database system
+- **🎨 Portfolio Angular Personal**: Angular + Tailwind + RxJS - Dynamic portfolio with scroll navigation
+- **🎨 Portfolio Cyberpunk**: Angular + TypeScript - Interactive portfolio with modals
+- **📦 API REST de Productos**: NestJS + TypeORM + PostgreSQL + JWT - RESTful service
+
+### 💼 **IBM Professional Projects - Industry Standards**
+- **🎸 Back-End Development Full Stack**: Flask + Django microservices with Docker Compose
+- **🚗 Microservice Evaluation**: Distributed dealer evaluation system with Docker
+- **📓 Guestbook Kubernetes**: Go app with Kubernetes orchestration and autoscaling
+- **🧠 Emotion Detection**: Flask + IBM Watson NLU for emotion analysis
+- **🪴 Paradise Nursery**: React + Redux e-commerce ([Live Demo](https://ibm-projects.vercel.app))
+- **📚 Express Book Reviews**: Node.js + Express + JWT - Book reviews API
+- **🎓 Sistema de Cursos Online**: Django + Bootstrap - Online education platform
+
+### 📊 **Data Science Portfolio - AI/ML Mastery**
+#### 🏆 **Kaggle Competitions (7 projects)**
+- **🩺 Blood Glucose Prediction**: ML models for healthcare with 95%+ accuracy
+- **🌪️ Disaster Tweets NLP**: DistilBERT transformer for emergency classification
+- **🔍 Mining Misconceptions**: Flan-T5 + NLP for educational content analysis
+- **🏠 House Prices Prediction**: Advanced regression with ensemble methods
+- **📈 Sales Time Forecasting**: LSTM + ARIMA for store sales prediction
+- **🚀 Space Titanic**: Sci-fi classification challenge with feature engineering
+- **⚓ Titanic Survival**: Classic ML problem with StackingClassifier
+
+#### 🌍 **Exploratory Analysis (2 projects)**
+- **🌍 Climate Change Analysis**: Open-Meteo API + geospatial visualization
+- **🌋 Chilean Earthquake Visualization**: Seismic data analysis (1976-2021) with GeoPandas
+
+#### 🛠️ **Automation Tools (2 projects)**
+- **🌋 Earthquake Data Tools**: Automated seismic data processing
+- **🕷️ Web Scraping Criminalistico**: Node.js + Puppeteer for news extraction
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Katapentakill/data-science-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=data-science-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Katapentakill/IBM_Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=IBM_Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Academic & Professional Journey -->
 <div align="center">
 
 ## 🎓 **Academic & Professional Journey**
@@ -180,56 +336,20 @@ Team Leadership  █████████████████████
         <strong style="color: #FF6347;">IBM Full Stack Developer</strong><br>
         <i style="color: #B22222;">15 specialized courses completed</i><br>
         <span style="color: #8B0000;">HTML, CSS, JS, React, Node.js</span><br>
-        <span style="color: #FF4500;">Python, Django, Express</span>
+        <span style="color: #FF4500;">Python, Django, Express, Kubernetes</span>
       </div>
     </td>
     <td align="center" width="300px">
       <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #B22222;">
         <h3 style="color: #B22222;">💼 Experience</h3>
-        <strong style="color: #FF6347;">50+ Projects Delivered</strong><br>
+        <strong style="color: #FF6347;">75+ Projects Delivered</strong><br>
         <i style="color: #B22222;">AI/ML solutions & Web Development</i><br>
         <span style="color: #8B0000;">Data pipelines & Cloud architecture</span><br>
-        <span style="color: #B22222;">3+ Years Learning & Building</span>
+        <span style="color: #B22222;">175,000+ lines of code written</span>
       </div>
     </td>
   </tr>
 </table>
-
-</div>
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🚀 **Featured Projects**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "Each repository tells a story of innovation"                    ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Katapentakill/Blood-Glucose-Prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Blood-Glucose-Prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Katapentakill/Natural-Language-Processing-with-Disaster-Tweets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=Natural-Language-Processing-with-Disaster-Tweets&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🔥 **Project Highlights**
-
-- **🩺 Healthcare AI**: Machine learning models for medical prediction and diagnosis
-- **🌐 NLP Solutions**: Advanced text processing and sentiment analysis systems  
-- **📊 Data Pipelines**: Scalable ETL processes and real-time analytics
-- **🚀 Full Stack Apps**: Modern web applications with React/Next.js and backend APIs
-- **☁️ Cloud Architecture**: Containerized deployments and microservices
 
 </div>
 
@@ -248,10 +368,10 @@ Team Leadership  █████████████████████
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-tapia-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-FF4500?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/katapentakill)
-[![Email](https://img.shields.io/badge/Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gubier-oscar-tapia-olmedo-10aa3725b)
+[![Email](https://img.shields.io/badge/Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandertapiaolmedo@gmail.com)
+[![IBM Projects Live](https://img.shields.io/badge/IBM_Projects_Demo-FF4500?style=for-the-badge&logo=ibm&logoColor=white)](https://ibm-projects.vercel.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alexandertapia)
 
 </div>
 
@@ -274,7 +394,8 @@ Team Leadership  █████████████████████
         <p style="color: #FF6347; font-size: 12px;">
           Advanced MLOps<br>
           Cloud Architecture<br>
-          System Design
+          System Design<br>
+          GraphQL APIs
         </p>
       </div>
     </td>
@@ -284,7 +405,8 @@ Team Leadership  █████████████████████
         <p style="color: #FF6347; font-size: 12px;">
           AI-powered Platform<br>
           Data Analytics Dashboard<br>
-          Portfolio Website
+          Portfolio Website<br>
+          ML Pipeline Automation
         </p>
       </div>
     </td>
@@ -294,7 +416,8 @@ Team Leadership  █████████████████████
         <p style="color: #FF6347; font-size: 12px;">
           Graduate 2025<br>
           Senior Dev Role<br>
-          Open Source Contrib
+          Open Source Contrib<br>
+          Tech Conference Speaker
         </p>
       </div>
     </td>
@@ -304,7 +427,8 @@ Team Leadership  █████████████████████
         <p style="color: #FF6347; font-size: 12px;">
           AI Ethics<br>
           Tech Leadership<br>
-          Innovation
+          Innovation<br>
+          Distributed Systems
         </p>
       </div>
     </td>
