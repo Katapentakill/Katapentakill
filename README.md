@@ -291,21 +291,6 @@ Team Leadership  █████████████████████
 - **🌋 Earthquake Data Tools**: Automated seismic data processing
 - **🕷️ Web Scraping Criminalistico**: Node.js + Puppeteer for news extraction
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Katapentakill/data-science-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=data-science-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Katapentakill/IBM_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=IBM_Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <!-- Academic & Professional Journey -->
