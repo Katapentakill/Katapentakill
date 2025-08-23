@@ -1,446 +1,244 @@
-<!-- Atmospheric Horror Header with Blood Mist -->
+<!-- ============================= -->
+<!--           HEADER              -->
+<!-- ============================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=29,30,31&text=KATAPENTAKILL&fontSize=50&fontColor=8B0000&animation=fadeIn&section=header&desc=𝔚𝔢𝔩𝔠𝔬𝔪𝔢%20𝔱𝔬%20𝔪𝔶%20𝔇𝔦𝔤𝔦𝔱𝔞𝔩%20𝔄𝔟𝔶𝔰𝔰&descAlign=50&descAlignY=75&descSize=18&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A192F,100:0E7490&text=KATAPENTAKILL&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20Data%20Engineer%20·%20AI%2FML&descAlign=50&descAlignY=62" alt="Header" />
 </div>
 
-<!-- Blood-dripping Typing Effect -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=3500&pause=1000&color=8B0000&background=0D1117FF&center=true&vCenter=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+Data+Engineer;Building+intelligent+systems;From+Civil+Engineering+to+AI;Transforming+data+into+insights;Status:+Crafting+digital+solutions" 
-    alt="Professional Typing Banner" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Next.js%20%2B%20NestJS%20%7C%20Python%20%7C%20Pipelines%20de%20Datos;Cloud%2FDevOps%20%28Docker%2C%20K8s%2C%20CI%2FCD%29;AI%2FML%20aplicado%20a%20productos;Arquitectura%20limpia%20y%20DX"
+    alt="Typing Intro"
   />
 </div>
 
-<!-- Floating Dark Spirits -->
+<p align="center">
+  <a href="mailto:alexandertapiaolmedo@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/alexander-gubier-oscar-tapia-olmedo-10aa3725b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/alexandertapia"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Katapentakill&style=for-the-badge&color=0E7490&label=VISITAS" />
+</p>
+
+<br/>
+
+<!-- ============================= -->
+<!--     TABLA DE CONTENIDOS       -->
+<!-- ============================= -->
+## 📑 Tabla de contenidos
+- [Sobre mí](#sobre-mi)
+- [Experiencia destacada](#experiencia-destacada)
+- [Tech principal](#tech-principal)
+- [Proyectos seleccionados](#proyectos-seleccionados)
+- [Repos destacados (pins)](#repos-destacados-pins)
+- [Certificaciones](#certificaciones)
+- [Logros Kaggle](#logros-kaggle)
+- [Métricas](#metricas)
+- [Roadmap / Actualmente](#roadmap--actualmente)
+- [Contacto](#contacto)
+
+---
+
+<!-- ============================= -->
+<!--          SOBRE MI            -->
+<!-- ============================= -->
+## 🤝 Sobre mí
+Ingeniero (UCN) enfocadísimo en **productos Full-Stack** y **Data**. Convierto requisitos difusos en **sistemas mantenibles**, medibles y desplegables. Me muevo cómodo entre front (Next.js), back (NestJS/Python), datos (ETL/ML) y DevOps (Docker/K8s/CI).  
+**Foco actual:** *Volunteer Metrics Hub* (MVP) y *VitalLink EMR – ESENCIAL* para clínicas rurales.
+
+> Filosofía: **Arquitectura primero → Medir → Automatizar → Simplificar.**
+
+---
+
+<!-- ============================= -->
+<!--     EXPERIENCIA DESTACADA     -->
+<!-- ============================= -->
+## 🧭 Experiencia destacada
+- **Project Developer (Global) — Living Stones Foundation** *(Mayo 2025 – Presente)*  
+  Diseño de arquitecturas y metodologías para proyectos de impacto social; liderazgo de equipos internacionales.
+
+- **Project Leader — Volunteer Metrics Hub (LSF)** *(Jul 2025 – Presente)*  
+  Desarrollo de sistema de métricas para voluntarios; encuestas a líderes/HR; stakeholders y validación temprana.
+
+- **Project Developer — EMR Rural** *(Mar 2025 – Presente)*  
+  Estrategia **MVP en 3 capas** (básico/intermedio/avanzado), enfoque offline-ready, visualizaciones y datos clínicos.
+
+- **Otros**: microservicios con NestJS/gRPC/RabbitMQ; apps desktop con Electron; scrapers con Puppeteer; análisis criminalístico georreferenciado.  
+
+> Más detalle en “Experiencia” y “Proyectos” abajo.
+
+---
+
+<!-- ============================= -->
+<!--        TECH PRINCIPAL         -->
+<!-- ============================= -->
+## 🛠️ Tech principal
 <div align="center">
-  <img src="https://media1.tenor.com/m/Eiwdxf0VrYUAAAAd/silent-hill-silent-hill-2006.gif" width="600" />
+
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,html,css" alt="Languages"/>
+
+<!-- Frameworks -->
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,nestjs,express,django,flask" alt="Frameworks"/>
+
+<!-- Data & AI -->
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/>
+
+<!-- Bases de datos -->
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Databases"/>
+
+<!-- Cloud & DevOps -->
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,git,github" alt="Cloud & DevOps"/>
+
+<!-- Herramientas -->
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,electron,vite" alt="Tools"/>
 </div>
 
-<!-- Enhanced Dark Profile with Professional Focus -->
+---
+
+<!-- ============================= -->
+<!--     PROYECTOS SELECCIONADOS   -->
+<!-- ============================= -->
+## 🚀 Proyectos seleccionados
+
+### Volunteer Metrics Hub — *MVP de gestión de voluntarios*
+**Stack:** Next.js (App Router), TS, Tailwind, Vercel, React Hook Form, Chart.js  
+**Highlights:** rutas protegidas por rol, hooks por dominio, dashboards y métricas de validación.  
+**Demo:** https://prototipo-metrics-hub-6uhq.vercel.app/login
+
+### VitalLink EMR (ESENCIAL) — *EMR modular para clínicas rurales*
+**Stack:** Python (estilo FastAPI/Robusta), arquitectura modular, estrategia offline-ready  
+**Highlights:** módulos claves (Pacientes, Consultas, Inventario, Personal), plantillas JSON clínicas y roadmap IA.
+
+### Clasificador de Comentarios FCAB (NLP) — *Desktop AI*
+**Stack:** Electron + Python, HuggingFace/Sentence Transformers, SharePoint  
+**Highlights:** pipeline semántico (Fortalezas/Oportunidades), CRUD de frases JSON, integración SharePoint.
+
+### Microservicios + CI/CD — *DevOps completo*
+**Stack:** NestJS, Docker, GitHub Actions, NGINX, PostgreSQL/MongoDB  
+**Highlights:** 8 servicios, compose/orquestación, tests y monitoreo práctico.
+
+> Más repos y notas técnicas en:  
+> • [University_Projects](https://github.com/Katapentakill/University_Projects) · [IBM_Projects](https://github.com/Katapentakill/IBM_Projects) · [data-science-portfolio](https://github.com/Katapentakill/data-science-portfolio)  
+> • Demos IBM: https://ibm-projects.vercel.app
+
+---
+
+<!-- ============================= -->
+<!--       PINS DESTACADOS         -->
+<!-- ============================= -->
+## 📌 Repos destacados (pins)
 <div align="center">
 
-## 🌙 **Digital Architect Profile**
-
-<table bgcolor="#0D1117" cellpadding="20">
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://media1.tenor.com/m/tRWcgbB082gAAAAC/sh2-sh2r.gif" width="350" style="border-radius: 20px; filter: contrast(1.3) brightness(0.7) hue-rotate(320deg);" />
-      </div>
-    </td>
-    <td width="600px" bgcolor="#0D1117">
-
-```javascript
-const DeveloperProfile = {
-    name: "Alexander Tapia",
-    alias: "Katapentakill", 
-    location: "Antofagasta, Chile 🇨🇱",
-    education: "Civil Engineering in Computing",
-    university: "Universidad Católica del Norte",
-    specialization: "Data Science & Big Data",
-    graduation: "2025",
-
-    currentRole: "Full Stack Developer | Data Engineer",
-    
-    expertise: [
-        "🧠 Machine Learning & AI Development",
-        "📊 Data Engineering & Analytics", 
-        "🌐 Full Stack Web Development",
-        "☁️ Cloud Architecture & DevOps",
-        "🔧 MLOps & Automation"
-    ],
-
-    projectsCompleted: "75+ repositories across 3 main collections",
-    linesOfCode: "175,000+ lines across all projects",
-    techStack: "25+ technologies mastered",
-    
-    mission: "Bridging engineering precision with AI innovation",
-    status: "LEARNING | BUILDING | EVOLVING"
-}
-```
-
-**⚡ Skill Proficiency**
-```
-Problem Solving  ██████████████████████████████ 100%
-Code Quality     █████████████████████████████░  98%
-Innovation       ██████████████████████████████ 100%
-Team Leadership  ████████████████████████████░░  95%
-```
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- Professional Metrics with Dark Theme -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Katapentakill&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/Katapentakill?color=8B0000&style=for-the-badge&logo=github&logoColor=DC143C&labelColor=1A0000&label=FOLLOWERS)
-  ![Stars](https://img.shields.io/github/stars/Katapentakill?color=B22222&style=for-the-badge&logo=star&logoColor=DC143C&labelColor=1A0000&label=TOTAL+STARS)
-  
-</div>
-
-<!-- Technology Arsenal -->
-<div align="center">
-
-## ⚔️ **Technology Arsenal**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║           "In the realm of code, precision and creativity unite"                  ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 💻 **Core Programming Stack**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,go,cs" alt="Programming Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,nestjs,django,flask,express" alt="Frameworks" />
-</div>
-
-### 🤖 **AI & Data Science**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI & ML" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFD91A?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/XGBoost-FFA500?style=for-the-badge&logoColor=white"/>
-</div>
-
-### 🗄️ **Databases & Storage**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis" alt="Databases" />
-  <br>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</div>
-
-### ☁️ **Cloud & DevOps**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux,nginx" alt="Cloud & DevOps" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</div>
-
-### 🛠️ **Development Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman,electron,vite" alt="Development Tools" />
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-
-### 🔧 **Additional Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A8?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Watson_NLU-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-</div>
-
-</div>
-
-<!-- GitHub Analytics -->
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "Code metrics tell the story of dedication"                    ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table bgcolor="#0D1117">
-  <tr>
-    <td align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FF4500&text_color=FFFFFF&border_radius=15"/>
-    </td>
-    <td align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=15"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=FF4500&fire=FF6347&currStreakLabel=DC143C&border_radius=15&card_width=900"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0D1117&color=DC143C&line=FF4500&point=FF6347&area=true&hide_border=true&radius=15"/>
+<a href="https://github.com/Katapentakill/University_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=University_Projects&theme=tokyonight&hide_border=true" alt="University_Projects"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Katapentakill/IBM_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=IBM_Projects&theme=tokyonight&hide_border=true" alt="IBM_Projects"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Katapentakill/data-science-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=data-science-portfolio&theme=tokyonight&hide_border=true" alt="data-science-portfolio"/>
+</a>
 
 </div>
 
-<!-- Project Repositories Collection -->
+---
+
+<!-- ============================= -->
+<!--        CERTIFICACIONES        -->
+<!-- ============================= -->
+## 🏅 Certificaciones
+- **IBM Full Stack Software Developer** (15 cursos, Cloud-Native, Docker, K8s, DevOps, CI/CD) — **2025**  
+  Verificación: https://coursera.org/verify/professional-cert/57LHVK4MJIZJ
+- **IBM Back-End Development** (11 cursos, Flask/Django, Microservices, Security, Monitoring) — **2025**  
+  Verificación: https://coursera.org/verify/professional-cert/DMJQX86T5NYO
+
+---
+
+<!-- ============================= -->
+<!--          LOGROS KAGGLE        -->
+<!-- ============================= -->
+## 🏆 Logros Kaggle
+| Competencia | Ranking | Notas |
+|---|---:|---|
+| **BrisT1D Blood Glucose Prediction** | **28 / 321** | XGBoost optimizado, features temporales |
+| **Jane Street Market Data Forecast** | **99 / 876** | Series no estacionarias, modelado financiero |
+| **Disaster Tweets (NLP)** | **133 / 1.014** | Transformers + scikit-learn |
+| **Store Sales Forecasting** | **186 / 711** | CatBoost + ingeniería temporal |
+| **EEDI – Misconceptions in Math (NLP)** | **135 / 956** | Sentence Transformers + PyTorch |
+| **Titanic (Classic)** | **381 / 5.118** | Ensembles scikit-learn |
+| **House Prices – Regression** | **736 / 5.118** | Stacking + Ridge meta-learner |
+| **Space Titanic** | **470 / 1.578** | Feature engineering |
+
+> Portafolio DS: [data-science-portfolio](https://github.com/Katapentakill/data-science-portfolio)
+
+---
+
+<!-- ============================= -->
+<!--           MÉTRICAS            -->
+<!-- ============================= -->
+## 📊 Métricas
 <div align="center">
-
-## 🏗️ **Repository Arsenal**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "Three realms of digital mastery - Each a gateway to innovation"                    ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table bgcolor="#0D1117">
-  <tr>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #DC143C; margin: 10px;">
-        <a href="https://github.com/Katapentakill/University_Projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=University_Projects&theme=radical&hide_border=true&bg_color=1A0000&title_color=DC143C&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-        </a>
-        <br><br>
-        <h3 style="color: #DC143C;">🎓 Academic Mastery</h3>
-        <p style="color: #FF6347; font-size: 14px;">
-          <strong>8 Complete Projects</strong><br>
-          75,000+ lines of code<br>
-          <span style="color: #8B0000;">Enterprise-level solutions</span>
-        </p>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #FF4500; margin: 10px;">
-        <a href="https://github.com/Katapentakill/IBM_Projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=IBM_Projects&theme=radical&hide_border=true&bg_color=1A0000&title_color=FF4500&text_color=FFFFFF&icon_color=DC143C&border_radius=10"/>
-        </a>
-        <br><br>
-        <h3 style="color: #FF4500;">💼 Professional Certification</h3>
-        <p style="color: #FF6347; font-size: 14px;">
-          <strong>7 IBM Projects</strong><br>
-          Full Stack Certificate<br>
-          <span style="color: #8B0000;">Industry best practices</span>
-        </p>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #B22222; margin: 10px;">
-        <a href="https://github.com/Katapentakill/data-science-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Katapentakill&repo=data-science-portfolio&theme=radical&hide_border=true&bg_color=1A0000&title_color=B22222&text_color=FFFFFF&icon_color=FF4500&border_radius=10"/>
-        </a>
-        <br><br>
-        <h3 style="color: #B22222;">📊 Data Science Realm</h3>
-        <p style="color: #FF6347; font-size: 14px;">
-          <strong>11+ ML Projects</strong><br>
-          Kaggle competitions<br>
-          <span style="color: #8B0000;">AI/ML innovation</span>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Katapentakill&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katapentakill&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <br/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Katapentakill&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
-<!-- Featured Projects -->
-<div align="center">
-
-## 🚀 **Featured Dark Arts**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                    "Each repository tells a story of innovation"                    ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 🔥 **University Projects - Academic Excellence**
-- **🧠 Clasificador de Comentarios FCAB**: Electron + Python + Hugging Face - AI-powered desktop app
-- **🎯 Microservicios con CI/CD**: 8 microservices + Docker + GitHub Actions - Enterprise architecture  
-- **🎯 Plataforma de Microservicios**: 6 microservices + gRPC + RabbitMQ + API Gateway - Distributed system
-- **🛒 VirtuBazaar E-commerce**: ASP.NET Core + Angular + Ionic - Full-stack platform
-- **📊 API Multi-Base de Datos**: NestJS + PostgreSQL + MongoDB + MariaDB - Multi-database system
-- **🎨 Portfolio Angular Personal**: Angular + Tailwind + RxJS - Dynamic portfolio with scroll navigation
-- **🎨 Portfolio Cyberpunk**: Angular + TypeScript - Interactive portfolio with modals
-- **📦 API REST de Productos**: NestJS + TypeORM + PostgreSQL + JWT - RESTful service
-
-### 💼 **IBM Professional Projects - Industry Standards**
-- **🎸 Back-End Development Full Stack**: Flask + Django microservices with Docker Compose
-- **🚗 Microservice Evaluation**: Distributed dealer evaluation system with Docker
-- **📓 Guestbook Kubernetes**: Go app with Kubernetes orchestration and autoscaling
-- **🧠 Emotion Detection**: Flask + IBM Watson NLU for emotion analysis
-- **🪴 Paradise Nursery**: React + Redux e-commerce ([Live Demo](https://ibm-projects.vercel.app))
-- **📚 Express Book Reviews**: Node.js + Express + JWT - Book reviews API
-- **🎓 Sistema de Cursos Online**: Django + Bootstrap - Online education platform
-
-### 📊 **Data Science Portfolio - AI/ML Mastery**
-#### 🏆 **Kaggle Competitions (7 projects)**
-- **🩺 Blood Glucose Prediction**: ML models for healthcare with 95%+ accuracy
-- **🌪️ Disaster Tweets NLP**: DistilBERT transformer for emergency classification
-- **🔍 Mining Misconceptions**: Flan-T5 + NLP for educational content analysis
-- **🏠 House Prices Prediction**: Advanced regression with ensemble methods
-- **📈 Sales Time Forecasting**: LSTM + ARIMA for store sales prediction
-- **🚀 Space Titanic**: Sci-fi classification challenge with feature engineering
-- **⚓ Titanic Survival**: Classic ML problem with StackingClassifier
-
-#### 🌍 **Exploratory Analysis (2 projects)**
-- **🌍 Climate Change Analysis**: Open-Meteo API + geospatial visualization
-- **🌋 Chilean Earthquake Visualization**: Seismic data analysis (1976-2021) with GeoPandas
-
-#### 🛠️ **Automation Tools (2 projects)**
-- **🌋 Earthquake Data Tools**: Automated seismic data processing
-- **🕷️ Web Scraping Criminalistico**: Node.js + Puppeteer for news extraction
-
-</div>
-
-<!-- Academic & Professional Journey -->
-<div align="center">
-
-## 🎓 **Academic & Professional Journey**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                        "From engineering foundations to AI innovation"                        ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table>
-  <tr>
-    <td align="center" width="300px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #DC143C;">
-        <h3 style="color: #DC143C;">🎓 Education</h3>
-        <strong style="color: #FF6347;">Civil Engineering in Computing</strong><br>
-        <i style="color: #B22222;">Universidad Católica del Norte</i><br>
-        <span style="color: #8B0000;">Specialization: Data Science & Big Data</span><br>
-        <span style="color: #DC143C;">Expected: 2025</span>
-      </div>
-    </td>
-    <td align="center" width="300px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #FF4500;">
-        <h3 style="color: #FF4500;">🏆 Certifications</h3>
-        <strong style="color: #FF6347;">IBM Full Stack Developer</strong><br>
-        <i style="color: #B22222;">15 specialized courses completed</i><br>
-        <span style="color: #8B0000;">HTML, CSS, JS, React, Node.js</span><br>
-        <span style="color: #FF4500;">Python, Django, Express, Kubernetes</span>
-      </div>
-    </td>
-    <td align="center" width="300px">
-      <div style="background: linear-gradient(135deg, #1A0000, #4A0000); padding: 20px; border-radius: 15px; border: 2px solid #B22222;">
-        <h3 style="color: #B22222;">💼 Experience</h3>
-        <strong style="color: #FF6347;">75+ Projects Delivered</strong><br>
-        <i style="color: #B22222;">AI/ML solutions & Web Development</i><br>
-        <span style="color: #8B0000;">Data pipelines & Cloud architecture</span><br>
-        <span style="color: #B22222;">175,000+ lines of code written</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- Professional Network -->
-<div align="center">
-
-## 🌐 **Professional Network**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                      "Building connections in the digital realm"                      ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://media1.tenor.com/m/If-8_BK8cm8AAAAd/silent-hill-silent-hill-cat.gif" width="250" style="filter: drop-shadow(0 0 20px #DC143C);"/>
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gubier-oscar-tapia-olmedo-10aa3725b)
-[![Email](https://img.shields.io/badge/Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandertapiaolmedo@gmail.com)
-[![IBM Projects Live](https://img.shields.io/badge/IBM_Projects_Demo-FF4500?style=for-the-badge&logo=ibm&logoColor=white)](https://ibm-projects.vercel.app)
-[![Kaggle](https://img.shields.io/badge/Kaggle_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alexandertapia)
-
-</div>
-
-<!-- Current Focus -->
-<div align="center">
-
-## 🎯 **Current Focus & Goals**
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                            "Evolving through continuous learning"                            ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #DC143C;">
-        <h4 style="color: #DC143C;">🎓 Learning</h4>
-        <p style="color: #FF6347; font-size: 12px;">
-          Advanced MLOps<br>
-          Cloud Architecture<br>
-          System Design<br>
-          GraphQL APIs
-        </p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #FF4500;">
-        <h4 style="color: #FF4500;">🚀 Building</h4>
-        <p style="color: #FF6347; font-size: 12px;">
-          AI-powered Platform<br>
-          Data Analytics Dashboard<br>
-          Portfolio Website<br>
-          ML Pipeline Automation
-        </p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #B22222;">
-        <h4 style="color: #B22222;">🎯 Goals</h4>
-        <p style="color: #FF6347; font-size: 12px;">
-          Graduate 2025<br>
-          Senior Dev Role<br>
-          Open Source Contrib<br>
-          Tech Conference Speaker
-        </p>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div style="background: linear-gradient(135deg, #0D1117, #2A0000); padding: 15px; border-radius: 10px; border: 2px solid #8B0000;">
-        <h4 style="color: #8B0000;">💡 Interests</h4>
-        <p style="color: #FF6347; font-size: 12px;">
-          AI Ethics<br>
-          Tech Leadership<br>
-          Innovation<br>
-          Distributed Systems
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- Philosophy & Values -->
-<div align="center">
-
-## 💭 **Philosophy & Values**
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=1000&height=60&lines=Code+with+purpose%2C+engineer+with+precision;Innovation+through+collaboration+and+learning;Building+bridges+between+technology+and+humanity;Every+problem+is+an+opportunity+for+creative+solutions" 
-    alt="Professional Philosophy"
-  />
-</div>
-
-</div>
-
-<!-- Atmospheric Horror Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=29,30,31&section=footer&animation=fadeIn&fontColor=DC143C&desc=𝕿𝖍𝖆𝖓𝖐%20𝖞𝖔𝖚%20𝖋𝖔𝖗%20𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌%20𝖒𝖞%20𝖉𝖎𝖌𝖎𝖙𝖆𝖑%20𝖗𝖔𝖗𝖙𝖗𝖊𝖘𝖘...&descAlign=50&descAlignY=80&descSize=16" />
-  
-  <div style="margin-top: -50px;">
-    <img src="https://count.getloli.com/get/@Katapentakill?theme=moebooru" alt="Visitor Counter" style="filter: hue-rotate(320deg) brightness(1.1) contrast(1.3);"/>
+<details>
+  <summary>🔎 Ver actividad reciente</summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katapentakill&bg_color=0A192F&color=38BDF8&line=0E7490&point=22D3EE&area=true&hide_border=true" alt="Activity Graph"/>
   </div>
+</details>
+
+---
+
+<!-- ============================= -->
+<!--   ROADMAP / ACTUALMENTE       -->
+<!-- ============================= -->
+## 🧭 Roadmap / Actualmente
+- [x] **MVP Volunteer Metrics Hub**: componentes reusables + rutas por rol + validación de stakeholders.  
+- [x] **VitalLink EMR ESENCIAL**: módulos base y plantillas JSON clínicas.  
+- [ ] Observabilidad (logs estructurados, métricas negocio y perf).  
+- [ ] CI/CD multi-servicio con *preview deploys*.  
+- [ ] MLOps ligero (experimentos reproducibles).
+
+<details>
+  <summary>🧪 Próximos POCs</summary>
+
+- Proxy de API (Route Handlers) para CORS + cookies HttpOnly cross-site.  
+- RBAC por claims/roles desde backend y middlewares por módulo.  
+- Feature flags y lanzamientos graduales.  
+- Budgets de performance web y pruebas de carga.
+</details>
+
+---
+
+<!-- ============================= -->
+<!--           CONTACTO            -->
+<!-- ============================= -->
+## 📬 Contacto
+<div align="center">
+  <a href="mailto:alexandertapiaolmedo@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/alexander-gubier-oscar-tapia-olmedo-10aa3725b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/alexandertapia"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://ibm-projects.vercel.app"><img src="https://img.shields.io/badge/IBM%20Demos-0B1020?style=for-the-badge&logo=ibm&logoColor=38BDF8" /></a>
+</div>
+
+<!-- ============================= -->
+<!--            FOOTER             -->
+<!-- ============================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A192F,100:0E7490&section=footer" alt="Footer"/>
 </div>
