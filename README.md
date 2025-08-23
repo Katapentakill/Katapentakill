@@ -202,29 +202,6 @@ Ingeniero (UCN) enfocadísimo en **productos Full-Stack** y **Data**. Convierto 
   </div>
 </details>
 
----
-
-<!-- ============================= -->
-<!--   ROADMAP / ACTUALMENTE       -->
-<!-- ============================= -->
-## 🧭 Roadmap / Actualmente
-- [x] **MVP Volunteer Metrics Hub**: componentes reusables + rutas por rol + validación de stakeholders.  
-- [x] **VitalLink EMR ESENCIAL**: módulos base y plantillas JSON clínicas.  
-- [ ] Observabilidad (logs estructurados, métricas negocio y perf).  
-- [ ] CI/CD multi-servicio con *preview deploys*.  
-- [ ] MLOps ligero (experimentos reproducibles).
-
-<details>
-  <summary>🧪 Próximos POCs</summary>
-
-- Proxy de API (Route Handlers) para CORS + cookies HttpOnly cross-site.  
-- RBAC por claims/roles desde backend y middlewares por módulo.  
-- Feature flags y lanzamientos graduales.  
-- Budgets de performance web y pruebas de carga.
-</details>
-
----
-
 <!-- ============================= -->
 <!--           CONTACTO            -->
 <!-- ============================= -->
