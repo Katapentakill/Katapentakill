@@ -11,7 +11,7 @@ Desarrollo Full Stack, datos e inteligencia artificial.
 | [earthquake-impact-ai](https://github.com/Katapentakill/earthquake-impact-ai) | Monitoreo sísmico en tiempo real con USGS y un modelo de lenguaje que estima el impacto. FastAPI, Next.js, MariaDB, Docker. |
 | [Metrics_Hub_V2_MVP](https://github.com/Katapentakill/Metrics_Hub_V2_MVP) | Plataforma de gestión de voluntarios para Living Stones Foundation. Next.js 14 y TypeScript. |
 | [data-science-portfolio](https://github.com/Katapentakill/data-science-portfolio) | 7 competencias de Kaggle, análisis geoespacial, NLP y series de tiempo. |
-| [BackOfficeEBCO](https://github.com/Katapentakill/BackOfficeEBCO) | Back office de gestión operacional para proyectos de construcción. Next.js 16. |
+| [mining-operations-safety-powerbi](https://github.com/Katapentakill/mining-operations-safety-powerbi) | Datos públicos de seguridad minera (MSHA) en un modelo en estrella sobre SQL Server e informe de Power BI como código (PBIP/TMDL), con pruebas. [Ver video](https://youtu.be/kPz3GsVUmrg). |
 | [FCAB](https://github.com/Katapentakill/FCAB) | App de escritorio (Electron) que clasifica comentarios con NLP. |
 | [Portfolio_V2](https://github.com/Katapentakill/Portfolio_V2) | Mi portafolio. [Ver demo](https://portfolio-v2-omega-liard.vercel.app). |
 
